@@ -1,0 +1,7 @@
+Score of Student 1234 :  52   7 100  78  34
+Score of Student 6999 :   0  98  89  78  20
+Statistic for this class : 
+Low Score : 0 7 0 32 10
+High Score : 100 100 100 90 80
+Average Score : 46.20 42.33 70.47 75.67 49.73
+Score of Student 1312 :java.io.FileNotFoundException: 1312.txt (The system cannot find the file specified)

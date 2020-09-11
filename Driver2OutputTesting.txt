@@ -1,0 +1,90 @@
+Student's infomation : Student's ID : 1234
+Quizzes' score :  52   7 100  78  34
+Statistics :Low Score : 0 7 0 32 10
+High Score : 100 100 100 90 80
+Average Score : 46.20 42.33 70.47 75.67 49.73
+
+Student's infomation : Student's ID : 2134
+Quizzes' score :  90  36  90  77  30
+Statistics :Low Score : 0 7 0 32 10
+High Score : 100 100 100 90 80
+Average Score : 46.20 42.33 70.47 75.67 49.73
+
+Student's infomation : Student's ID : 3124
+Quizzes' score : 100  45  20  90  70
+Statistics :Low Score : 0 7 0 32 10
+High Score : 100 100 100 90 80
+Average Score : 46.20 42.33 70.47 75.67 49.73
+
+Student's infomation : Student's ID : 4532
+Quizzes' score :  11  17  81  32  77
+Statistics :Low Score : 0 7 0 32 10
+High Score : 100 100 100 90 80
+Average Score : 46.20 42.33 70.47 75.67 49.73
+
+Student's infomation : Student's ID : 5678
+Quizzes' score :  20  12  45  78  34
+Statistics :Low Score : 0 7 0 32 10
+High Score : 100 100 100 90 80
+Average Score : 46.20 42.33 70.47 75.67 49.73
+
+Student's infomation : Student's ID : 6134
+Quizzes' score :  34  80  55  78  45
+Statistics :Low Score : 0 7 0 32 10
+High Score : 100 100 100 90 80
+Average Score : 46.20 42.33 70.47 75.67 49.73
+
+Student's infomation : Student's ID : 7874
+Quizzes' score :  60 100  56  78  78
+Statistics :Low Score : 0 7 0 32 10
+High Score : 100 100 100 90 80
+Average Score : 46.20 42.33 70.47 75.67 49.73
+
+Student's infomation : Student's ID : 8026
+Quizzes' score :  70  10  66  78  56
+Statistics :Low Score : 0 7 0 32 10
+High Score : 100 100 100 90 80
+Average Score : 46.20 42.33 70.47 75.67 49.73
+
+Student's infomation : Student's ID : 9893
+Quizzes' score :  34   9  77  78  20
+Statistics :Low Score : 0 7 0 32 10
+High Score : 100 100 100 90 80
+Average Score : 46.20 42.33 70.47 75.67 49.73
+
+Student's infomation : Student's ID : 1947
+Quizzes' score :  45  40  88  78  55
+Statistics :Low Score : 0 7 0 32 10
+High Score : 100 100 100 90 80
+Average Score : 46.20 42.33 70.47 75.67 49.73
+
+Student's infomation : Student's ID : 2877
+Quizzes' score :  55  50  99  78  80
+Statistics :Low Score : 0 7 0 32 10
+High Score : 100 100 100 90 80
+Average Score : 46.20 42.33 70.47 75.67 49.73
+
+Student's infomation : Student's ID : 3189
+Quizzes' score :  22  70 100  78  77
+Statistics :Low Score : 0 7 0 32 10
+High Score : 100 100 100 90 80
+Average Score : 46.20 42.33 70.47 75.67 49.73
+
+Student's infomation : Student's ID : 4602
+Quizzes' score :  89  50  91  78  60
+Statistics :Low Score : 0 7 0 32 10
+High Score : 100 100 100 90 80
+Average Score : 46.20 42.33 70.47 75.67 49.73
+
+Student's infomation : Student's ID : 5405
+Quizzes' score :  11  11   0  78  10
+Statistics :Low Score : 0 7 0 32 10
+High Score : 100 100 100 90 80
+Average Score : 46.20 42.33 70.47 75.67 49.73
+
+Student's infomation : Student's ID : 6999
+Quizzes' score :   0  98  89  78  20
+Statistics :Low Score : 0 7 0 32 10
+High Score : 100 100 100 90 80
+Average Score : 46.20 42.33 70.47 75.67 49.73
+
